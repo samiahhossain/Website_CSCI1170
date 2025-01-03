@@ -1,1 +1,1 @@
-This website was made to practice using a variety of different HTML, CSS, and JS techniques, so it is not optimized for functionality or visual appeal. Fell free however to take a peek into what I submitted!
+This website was made to practice using a variety of different HTML, CSS, and JS techniques, so it is not optimized for functionality or visual appeal. Feel free however to take a peek into what I submitted!
